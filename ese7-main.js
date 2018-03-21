@@ -66,6 +66,19 @@ for(var i=0; i<arrayZucchina.length;i++){
   }
 }
 
+ sommaPeso1=0;
+ for(var i=0; i<array1.length; i++){
+   sommaPeso1=sommaPeso1+array1[i].peso;
+ }
+ sommaPeso2=0;
+ for(var i=0; i<array2.length; i++){
+   sommaPeso2=sommaPeso2+array2[i].peso;
+ }
+
+
+
 //istruzioni che stampano i due array divisi
 console.log("array con elementi di lunghezza sotto 15 cm", array1);
 console.log("array con elementi di lunghezza sopra 15 cm", array2);
+console.log("sommarray 1", + sommaPeso1);
+console.log("sommarray 1", + sommaPeso2);
