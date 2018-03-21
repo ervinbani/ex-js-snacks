@@ -7,7 +7,7 @@ var zucchina1 = {
 var zucchina2 = {
   "varietà" : " Piacenza",
   "peso" : 80,
-  "lunghezza" : 13
+  "lunghezza" : 18
 };
 var zucchina3 = {
   "varietà" : " Piacenza",
@@ -17,7 +17,7 @@ var zucchina3 = {
 var zucchina4 = {
   "varietà" : " varietà4",
   "peso" : 82,
-  "lunghezza" : 12
+  "lunghezza" : 19
 };
 var zucchina5 = {
   "varietà" : " varietà5",
