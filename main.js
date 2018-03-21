@@ -50,7 +50,6 @@ var zucchina10 = {
   "lunghezza" : "12"
 };
 
-
 //array di oggetti
 var arrayZucchina= [zucchina1, zucchina2, zucchina3, zucchina4, zucchina5, zucchina6,zucchina7, zucchina8, zucchina9, zucchina10];
 
