@@ -58,6 +58,5 @@ sommaPeso=0;
 for(var i=0; i<arrayZucchina.length; i++){
   sommaPeso=sommaPeso+arrayZucchina[i].peso;
 }
-somma=zucchina1.peso+zucchina2.peso+zucchina3.peso+zucchina4.peso+zucchina5.peso+zucchina6.peso+zucchina7.peso+zucchina8.peso+zucchina9.peso+zucchina10.peso
 document.write("peso totale =  ", + sommaPeso);
 document.write("peso totale =  ", + somma);
