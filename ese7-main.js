@@ -67,5 +67,5 @@ for(var i=0; i<arrayZucchina.length;i++){
 }
 
 //istruzioni che stampano i due array divisi
-document.write("array con elementi di lunghezza sotto 15 cm", array1);
-document.write("array con elementi di lunghezza sopra 15 cm", array2);
+console.log("array con elementi di lunghezza sotto 15 cm", array1);
+console.log("array con elementi di lunghezza sopra 15 cm", array2);
